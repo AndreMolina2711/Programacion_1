@@ -4,7 +4,7 @@ print("2. Restar")
 print("3. Multiplicar")
 print("4. Dividir")
 
-opcion = input("Elige una opción (1-4): ")
+opcion = input("Elige una variable (1-4): ")
 
 num1 = float(input("Ingresa el primer número: "))
 num2 = float(input("Ingresa el segundo número: "))
